@@ -1,0 +1,12 @@
+{
+  "name": "censorify",
+  "version": "1.0.0",
+  "main": "censortxt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
